@@ -36,6 +36,15 @@
                 "${workspaceFolder}/Carsties.sln"
             ],
             "problemMatcher": "$msCompile"
+        },
+        {
+            "type": "dotnet",
+            "task": "watch AuctionService",
+            "file": "d:\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+            "problemMatcher": [
+                "$msCompile"
+            ],
+            "label": "dotnet: watch AuctionService"
         }
     ]
 }

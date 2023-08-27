@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Carsties\\src\\Contracts\\Contracts.csproj": {}
+    "d:\\Carsties\\src\\Contracts\\Contracts.csproj": {}
   },
   "projects": {
-    "D:\\Carsties\\src\\Contracts\\Contracts.csproj": {
+    "d:\\Carsties\\src\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Carsties\\src\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "d:\\Carsties\\src\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "D:\\Carsties\\src\\Contracts\\Contracts.csproj",
+        "projectPath": "d:\\Carsties\\src\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\",
-        "outputPath": "D:\\Carsties\\src\\Contracts\\obj\\",
+        "outputPath": "d:\\Carsties\\src\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

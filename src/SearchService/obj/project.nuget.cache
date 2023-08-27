@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FybyD+Aa1o5LezQIrRDTwkZvmnWrctyu5LUIMCDPYXBzDbggBYBjcXdx0gNk54KkFK1ZlI8fhuT2aWhYW2xPJw==",
+  "dgSpecHash": "wOZv42OhAG6vt9exMr4LJlbqsJ9+FvW9LRfrPZ5AUC5q7VWDr411ggUaEmKSQb7IA+c8M5kG6vacP7ywbR9PPA==",
   "success": true,
-  "projectFilePath": "D:\\Carsties\\src\\SearchService\\SearchService.csproj",
+  "projectFilePath": "d:\\Carsties\\src\\SearchService\\SearchService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
