@@ -16,22 +16,16 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient<AuctionSvcHttpClient>().AddPolicyHandler(GetPolicy());
 
-try
-{
-        builder.Services.AddMassTransit( x => {
+     builder.Services.AddMassTransit( x => {
         x.AddConsumersFromNamespaceContaining<AuctionCreatedConsumer>();
-        x.SetEndpointNameFormatter(new KebabCaseEndpointNameFormatter("search",false));
+       x.SetEndpointNameFormatter(new KebabCaseEndpointNameFormatter("search",false));
         x.UsingRabbitMq((context,cfg) => {
+            var deneme = x;
             cfg.ConfigureEndpoints(context);
         });
     });
 
-}
-catch (System.Exception ex)
-{
-    
-    Console.WriteLine(ex.Message);
-}
+
 
 var app = builder.Build();
 
@@ -42,7 +36,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+
 
 app.UseAuthorization();
 
