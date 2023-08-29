@@ -2581,8 +2581,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\Carsties\\src\\Contracts\\Contracts.csproj": {
-              "projectPath": "d:\\Carsties\\src\\Contracts\\Contracts.csproj"
+            "D:\\Carsties\\src\\Contracts\\Contracts.csproj": {
+              "projectPath": "D:\\Carsties\\src\\Contracts\\Contracts.csproj"
             }
           }
         }
