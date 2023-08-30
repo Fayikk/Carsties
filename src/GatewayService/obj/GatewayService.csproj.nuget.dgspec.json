@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Carsties\\src\\GatewayService\\GatewayService.csproj": {}
+    "d:\\Carsties\\src\\GatewayService\\GatewayService.csproj": {}
   },
   "projects": {
-    "D:\\Carsties\\src\\GatewayService\\GatewayService.csproj": {
+    "d:\\Carsties\\src\\GatewayService\\GatewayService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Carsties\\src\\GatewayService\\GatewayService.csproj",
+        "projectUniqueName": "d:\\Carsties\\src\\GatewayService\\GatewayService.csproj",
         "projectName": "GatewayService",
-        "projectPath": "D:\\Carsties\\src\\GatewayService\\GatewayService.csproj",
+        "projectPath": "d:\\Carsties\\src\\GatewayService\\GatewayService.csproj",
         "packagesPath": "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\",
-        "outputPath": "D:\\Carsties\\src\\GatewayService\\obj\\",
+        "outputPath": "d:\\Carsties\\src\\GatewayService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GTaULglNMNZv7muAxrcwbfMOal9cBXF1mJx3US+pOf8kjR52u77Qbtdqv947W3hzQ1eBsMmqLvOj2m3nLurA0A==",
+  "dgSpecHash": "w9Q+sro/wQShGrpg/mv6sCYDAvVuCy1g53iXNljujJd3xebUI4X3HIexVY7buCr2e9uaCf6x8sQJFZR94AMpKQ==",
   "success": true,
-  "projectFilePath": "D:\\Carsties\\src\\GatewayService\\GatewayService.csproj",
+  "projectFilePath": "d:\\Carsties\\src\\GatewayService\\GatewayService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.10\\microsoft.aspnetcore.authentication.jwtbearer.7.0.10.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
