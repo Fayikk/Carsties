@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SP+yNgJxTXM81FRWI4MWfnO2EqYAeiNzXE+MJJGrS/FO8Ayd7zQV0NaH+tWDwiu22WgwVa+2QQM7GyMjojR3cA==",
+  "dgSpecHash": "2yaBheDRd5Y9oG/WzlbI3YT5m9tQQRMu5WH3ZICXiSZ4amxdLrxz7YFpN7IKVSla9eke9Zw3WQCX2+D6pdIGrg==",
   "success": true,
-  "projectFilePath": "D:\\Carsties\\src\\IdentityService\\IdentityService.csproj",
+  "projectFilePath": "d:\\Carsties\\src\\IdentityService\\IdentityService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\duende.identityserver\\6.3.2\\duende.identityserver.6.3.2.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\duende.identityserver.aspnetidentity\\6.3.2\\duende.identityserver.aspnetidentity.6.3.2.nupkg.sha512",
@@ -35,6 +35,8 @@
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.10\\microsoft.extensions.fileproviders.embedded.7.0.10.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.8\\microsoft.extensions.hosting.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.10\\microsoft.extensions.http.polly.7.0.10.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.10\\microsoft.extensions.identity.core.7.0.10.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.10\\microsoft.extensions.identity.stores.7.0.10.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
@@ -50,6 +52,8 @@
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
+    "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\serilog.aspnetcore\\6.0.0\\serilog.aspnetcore.6.0.0.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\serilog.extensions.hosting\\5.0.0\\serilog.extensions.hosting.5.0.0.nupkg.sha512",

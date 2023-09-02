@@ -2553,11 +2553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Carsties\\src\\SearchService\\SearchService.csproj",
+      "projectUniqueName": "d:\\Carsties\\src\\SearchService\\SearchService.csproj",
       "projectName": "SearchService",
-      "projectPath": "D:\\Carsties\\src\\SearchService\\SearchService.csproj",
+      "projectPath": "d:\\Carsties\\src\\SearchService\\SearchService.csproj",
       "packagesPath": "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\",
-      "outputPath": "D:\\Carsties\\src\\SearchService\\obj\\",
+      "outputPath": "d:\\Carsties\\src\\SearchService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2581,8 +2581,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Carsties\\src\\Contracts\\Contracts.csproj": {
-              "projectPath": "D:\\Carsties\\src\\Contracts\\Contracts.csproj"
+            "d:\\Carsties\\src\\Contracts\\Contracts.csproj": {
+              "projectPath": "d:\\Carsties\\src\\Contracts\\Contracts.csproj"
             }
           }
         }
