@@ -69,3 +69,6 @@ D:\Carsties\src\IdentityService\obj\Debug\net7.0\IdentityService.pdb
 D:\Carsties\src\IdentityService\obj\Debug\net7.0\IdentityService.genruntimeconfig.cache
 D:\Carsties\src\IdentityService\obj\Debug\net7.0\ref\IdentityService.dll
 D:\Carsties\src\IdentityService\bin\Debug\net7.0\keys\is-signing-key-57C98A31FD0FD513F543B9CB80A7ED71.json
+D:\Carsties\src\IdentityService\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
+D:\Carsties\src\IdentityService\bin\Debug\net7.0\Polly.dll
+D:\Carsties\src\IdentityService\bin\Debug\net7.0\Polly.Extensions.Http.dll

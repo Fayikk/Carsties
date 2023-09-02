@@ -14,6 +14,7 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.10",
           "Microsoft.AspNetCore.Identity.UI": "7.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.10",
+          "Microsoft.Extensions.Http.Polly": "7.0.10",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.4",
           "Serilog.AspNetCore": "6.0.0"
         },
@@ -273,6 +274,27 @@
           "Microsoft.Extensions.Logging.Abstractions": "7.0.0"
         }
       },
+      "Microsoft.Extensions.Http/7.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "Microsoft.Extensions.Logging": "7.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "7.0.0",
+          "Microsoft.Extensions.Options": "7.0.1"
+        }
+      },
+      "Microsoft.Extensions.Http.Polly/7.0.10": {
+        "dependencies": {
+          "Microsoft.Extensions.Http": "7.0.0",
+          "Polly": "7.2.3",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {
+            "assemblyVersion": "7.0.10.0",
+            "fileVersion": "7.0.1023.36439"
+          }
+        }
+      },
       "Microsoft.Extensions.Identity.Core/7.0.10": {
         "dependencies": {
           "Microsoft.AspNetCore.Cryptography.KeyDerivation": "7.0.10",
@@ -418,6 +440,25 @@
           "lib/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
             "assemblyVersion": "7.0.4.0",
             "fileVersion": "7.0.4.0"
+          }
+        }
+      },
+      "Polly/7.2.3": {
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.2.3.0"
+          }
+        }
+      },
+      "Polly.Extensions.Http/3.0.0": {
+        "dependencies": {
+          "Polly": "7.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Polly.Extensions.Http.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
           }
         }
       },
@@ -784,6 +825,20 @@
       "path": "microsoft.extensions.hosting.abstractions/3.1.8",
       "hashPath": "microsoft.extensions.hosting.abstractions.3.1.8.nupkg.sha512"
     },
+    "Microsoft.Extensions.Http/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9Pq9f/CvOSz0t9yQa6g1uWpxa2sm13daLFm8EZwy9MaQUjKXWdNUXQwIxwhmba5N83UIqURiPHSNqGK1vfWF2w==",
+      "path": "microsoft.extensions.http/7.0.0",
+      "hashPath": "microsoft.extensions.http.7.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Http.Polly/7.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sc2TfeuJop2RDxGiKZ8+EWbUawE8ng2XZ9DoPVNnNZuKkFnm+C04srfL7/c1LSGZnTadpZIemzGRXegEwG34iA==",
+      "path": "microsoft.extensions.http.polly/7.0.10",
+      "hashPath": "microsoft.extensions.http.polly.7.0.10.nupkg.sha512"
+    },
     "Microsoft.Extensions.Identity.Core/7.0.10": {
       "type": "package",
       "serviceable": true,
@@ -888,6 +943,20 @@
       "sha512": "sha512-ZYMtyG6pmLtUsFAx0/XaIlVkJM+1gArWEKD55cLLxiVlGScAphjiGj+G7Gk16yg5lhhdWx+bgXWpIUISXuS33g==",
       "path": "npgsql.entityframeworkcore.postgresql/7.0.4",
       "hashPath": "npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512"
+    },
+    "Polly/7.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DeCY0OFbNdNxsjntr1gTXHJ5pKUwYzp04Er2LLeN3g6pWhffsGuKVfMBLe1lw7x76HrPkLxKEFxBlpRxS2nDEQ==",
+      "path": "polly/7.2.3",
+      "hashPath": "polly.7.2.3.nupkg.sha512"
+    },
+    "Polly.Extensions.Http/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-drrG+hB3pYFY7w1c3BD+lSGYvH2oIclH8GRSehgfyP5kjnFnHKQuuBhuHLv+PWyFuaTDyk/vfRpnxOzd11+J8g==",
+      "path": "polly.extensions.http/3.0.0",
+      "hashPath": "polly.extensions.http.3.0.0.nupkg.sha512"
     },
     "Serilog/2.10.0": {
       "type": "package",
