@@ -34,3 +34,4 @@ D:\Carsties\src\GatewayService\obj\Debug\net7.0\refint\GatewayService.dll
 D:\Carsties\src\GatewayService\obj\Debug\net7.0\GatewayService.pdb
 d:\Carsties\src\GatewayService\obj\Debug\net7.0\GatewayService.genruntimeconfig.cache
 d:\Carsties\src\GatewayService\obj\Debug\net7.0\ref\GatewayService.dll
+D:\Carsties\src\GatewayService\bin\Debug\net7.0\appsettings.Docker.json

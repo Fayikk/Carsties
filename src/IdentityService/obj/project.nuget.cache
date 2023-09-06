@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g2n5GCJcqmH/RRbno/PUB9RW5vK8mRyk3jRzg0oBBmgUEQ7Y8DymLwxyFU5NyfjcOrrBOwhYJt2q03HAyzb8Cw==",
+  "dgSpecHash": "2yaBheDRd5Y9oG/WzlbI3YT5m9tQQRMu5WH3ZICXiSZ4amxdLrxz7YFpN7IKVSla9eke9Zw3WQCX2+D6pdIGrg==",
   "success": true,
-  "projectFilePath": "D:\\Carsties\\src\\IdentityService\\IdentityService.csproj",
+  "projectFilePath": "d:\\Carsties\\src\\IdentityService\\IdentityService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\duende.identityserver\\6.3.2\\duende.identityserver.6.3.2.nupkg.sha512",
     "C:\\Users\\fayik.veznedaroglu\\.nuget\\packages\\duende.identityserver.aspnetidentity\\6.3.2\\duende.identityserver.aspnetidentity.6.3.2.nupkg.sha512",

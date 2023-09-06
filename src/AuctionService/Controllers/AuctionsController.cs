@@ -49,7 +49,6 @@ public class AuctionsController : ControllerBase
     }
 
     [HttpPost]
-    [Authorize]
     public async Task<ActionResult<AuctionDto>> CreateAuction(CreateAuctionDto auctionDto){
         
         //Bu fonksiyon içerisinde gerekli eklenen her auction için masstransit eklemesi yapılmaktadır.

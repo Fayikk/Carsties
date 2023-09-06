@@ -13,7 +13,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+
 app.MapReverseProxy();
 app.UseAuthentication();
 app.UseAuthorization();
